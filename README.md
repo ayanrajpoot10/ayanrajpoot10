@@ -1,44 +1,20 @@
-<h1 align="center">Hi, I'm Ayan 👋</h1>
-<h3 align="center">Developer | Tech Enthusiast</h3>
+# Hi, I'm Ayan 👋
 
----
+**Developer | Tech Enthusiast**
 
-### 📊 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayanrajpoot10&theme=github_dark" alt="Profile Details" width="100%">
-</div>
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayanrajpoot10&theme=github_dark" alt="Repos Per Language" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayanrajpoot10&theme=github_dark" alt="Most Commit Language" width="45%">
-</div>
+[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanrajpoot10&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayanrajpoot10&theme=github_dark" alt="GitHub Stats" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayanrajpoot10&theme=github_dark" alt="Productive Time" width="45%">
-</div>
 
----
+### 🌟 Connect with Me
 
-### 🌟 **Connect with Me**
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ayanrajpoot10)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Ayanrajpoot2004@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Ayan_rajpoot)
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Ayanrajpoot10">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:Ayanrajpoot2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
----
+### 👀 Profile Views
 
-### 👀 **Profile Views**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayanrajpoot10&color=gray&style=flat" alt="Profile Views">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Ayanrajpoot10&color=gray&style=flat)
