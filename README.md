@@ -1,14 +1,17 @@
 # Hey, I'm Ayan 👋
 
-**Developer · Tech Enthusiast**
+**Developer | Tech Enthusiast**
 
-### 📊 GitHub Stats
+---
 
-[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanrajpoot10&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanrajpoot10&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📬 Connect with Me
+---
 
-[![Telegram](https://img.shields.io/badge/-@Ayan_rajpoot-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Ayan_rajpoot)
+### Connect
+[![Telegram](https://img.shields.io/badge/Telegram-%40Ayan__rajpoot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Ayan_rajpoot)
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Ayanrajpoot10&color=gray&style=flat)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayanrajpoot10&color=blue&style=flat-square)
